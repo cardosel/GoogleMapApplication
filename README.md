@@ -1,4 +1,4 @@
-# simple-gato
+# mapmarkers-tocsv
 
 #google map application takes two search requests for specific establishment
 #returns JSON data via selected markers
